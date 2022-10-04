@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gabrield-droid
+- 👋 Hi, I’m @gabrield-droid (aka dylan)
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently study Informatics Engineering at Hasanuddin University
 - 💞️ I’m looking to collaborate on ...
