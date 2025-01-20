@@ -1,7 +1,7 @@
 #### Brief introduction
 - 👋 Hi, I’m @gabrield-droid (aka dylan)
-- 👀 I’m interested in learning coding
-- 🌱 I’m currently study Informatics Engineering at Hasanuddin University
+- 👀 I’m interested in (dunno)
+- 🌱 I’m currently an ordinary person who struggling
 - 💞️ I’m looking to collaborate on ...
 
 #### How to reach me
