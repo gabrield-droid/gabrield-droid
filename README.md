@@ -1,6 +1,6 @@
 #### Brief introduction
 - 👋 Hi, I’m @gabrield-droid (aka dylan)
-- 👀 I’m interested in (dunno)
+- 👀 I’m interested in the web development, internet of things, ..., hmm (i don't know the other)
 - 🌱 I’m currently an ordinary person who struggles
 - 💞️ I’m looking to collaborate on ...
 
